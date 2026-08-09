@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 🚀 I'm Dandy.<br>
 My journey in tech began with a solid vocational background (SMK) in computer networking. With a strong grasp of how systems connect behind the scenes, I am now dedicating my focus to exploring and building web applications. I'm a lifelong learner at heart, always eager to roll up my sleeves and turn ideas into working software.<br><br>
-🌱 **Currently focusing on:** Crafting full-stack applications using **React** and native **Node.js**.<br>
+🌱 **Currently focusing on:** Crafting full-stack applications using **React** and **Node.js**, while actively expanding my backend skills with **Express.js**.<br>
 💡 **My approach:** I value a logic-first mindset—focusing on truly understanding the root of a problem rather than just copy-pasting solutions.<br>
 🛠️ **Background:** My early roots in network infrastructure give me a practical advantage in visualizing exactly how applications deploy, run, and communicate on servers.
 
