@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there! 🚀 Saya Dandy.<br>Seorang *tech enthusiast* dan lulusan SMK yang memiliki dasar kuat di bidang Jaringan. Karena ilmu *networking* sudah menjadi fondasi dasar saya, saat ini saya lebih fokus mengeksplorasi dan membangun aplikasi web. Saya percaya pada proses "terus belajar", tapi juga siap untuk langsung mengeksekusi ide menjadi karya nyata.<br><br>🌱 **Fokus saat ini:** Mengembangkan aplikasi *full-stack* menggunakan **React** dan **Node.js (Native)**.<br>💡 **Prinsip saya:** Menyelesaikan masalah dengan pendekatan *logic-first* dan menghindari sekadar *copy-paste* kode.<br>🛠️ **Latar belakang:** Menguasai fundamental infrastruktur jaringan, yang sangat membantu saya memahami bagaimana sebuah aplikasi berjalan di server.
+Hi there! 🚀 I'm Dandy.<br>
+My journey in tech began with a solid vocational background (SMK) in computer networking. With a strong grasp of how systems connect behind the scenes, I am now dedicating my focus to exploring and building web applications. I'm a lifelong learner at heart, always eager to roll up my sleeves and turn ideas into working software.<br><br>
+🌱 **Currently focusing on:** Crafting full-stack applications using **React** and native **Node.js**.<br>
+💡 **My approach:** I value a logic-first mindset—focusing on truly understanding the root of a problem rather than just copy-pasting solutions.<br>
+🛠️ **Background:** My early roots in network infrastructure give me a practical advantage in visualizing exactly how applications deploy, run, and communicate on servers.
 
 
 # 💻 Tech Stack:
